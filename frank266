@@ -1,0 +1,7 @@
+$ git clone git@github.com:[frank266]/jboss-as.git
+Initialized empty Git repository in /devel/jboss-as/.git/
+remote: Counting objects: 2444, done.
+remote: Compressing objects: 100% (705/705), done.
+remote: Total 2444 (delta 938), reused 2444 (delta 938)
+Receiving objects: 100% (2444/2444), 1.71 MiB | 205 KiB/s, done.
+Resolving deltas: 100% (938/938), done
